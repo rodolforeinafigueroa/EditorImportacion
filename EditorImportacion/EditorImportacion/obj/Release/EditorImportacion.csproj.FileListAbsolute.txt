@@ -1,0 +1,12 @@
+C:\Users\rodolfo.reina.PRODUCCION\Documents\Visual Studio 2015\Projects\EditorImportacion\EditorImportacion\bin\Release\EditorImportacion.exe.config
+C:\Users\rodolfo.reina.PRODUCCION\Documents\Visual Studio 2015\Projects\EditorImportacion\EditorImportacion\bin\Release\EditorImportacion.exe
+C:\Users\rodolfo.reina.PRODUCCION\Documents\Visual Studio 2015\Projects\EditorImportacion\EditorImportacion\bin\Release\EditorImportacion.pdb
+C:\Users\rodolfo.reina.PRODUCCION\Documents\Visual Studio 2015\Projects\EditorImportacion\EditorImportacion\bin\Release\SrvRRF.dll
+C:\Users\rodolfo.reina.PRODUCCION\Documents\Visual Studio 2015\Projects\EditorImportacion\EditorImportacion\bin\Release\SrvRRF.pdb
+C:\Users\rodolfo.reina.PRODUCCION\Documents\Visual Studio 2015\Projects\EditorImportacion\EditorImportacion\obj\Release\EditorImportacion.csprojResolveAssemblyReference.cache
+C:\Users\rodolfo.reina.PRODUCCION\Documents\Visual Studio 2015\Projects\EditorImportacion\EditorImportacion\obj\Release\EditorImportacion.frmEditorImportacion.resources
+C:\Users\rodolfo.reina.PRODUCCION\Documents\Visual Studio 2015\Projects\EditorImportacion\EditorImportacion\obj\Release\EditorImportacion.frmScript.resources
+C:\Users\rodolfo.reina.PRODUCCION\Documents\Visual Studio 2015\Projects\EditorImportacion\EditorImportacion\obj\Release\EditorImportacion.Properties.Resources.resources
+C:\Users\rodolfo.reina.PRODUCCION\Documents\Visual Studio 2015\Projects\EditorImportacion\EditorImportacion\obj\Release\EditorImportacion.csproj.GenerateResource.Cache
+C:\Users\rodolfo.reina.PRODUCCION\Documents\Visual Studio 2015\Projects\EditorImportacion\EditorImportacion\obj\Release\EditorImportacion.exe
+C:\Users\rodolfo.reina.PRODUCCION\Documents\Visual Studio 2015\Projects\EditorImportacion\EditorImportacion\obj\Release\EditorImportacion.pdb

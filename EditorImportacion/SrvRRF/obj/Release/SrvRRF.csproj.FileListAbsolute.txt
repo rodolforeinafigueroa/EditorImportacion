@@ -1,0 +1,6 @@
+C:\Users\rodolfo.reina.PRODUCCION\Documents\Visual Studio 2015\Projects\RRFWeb\SrvRRF\bin\Release\SrvRRF.dll
+C:\Users\rodolfo.reina.PRODUCCION\Documents\Visual Studio 2015\Projects\RRFWeb\SrvRRF\bin\Release\SrvRRF.pdb
+C:\Users\rodolfo.reina.PRODUCCION\Documents\Visual Studio 2015\Projects\RRFWeb\SrvRRF\obj\Release\SrvRRF.dll
+C:\Users\rodolfo.reina.PRODUCCION\Documents\Visual Studio 2015\Projects\RRFWeb\SrvRRF\obj\Release\SrvRRF.pdb
+C:\Users\rodolfo.reina.PRODUCCION\Documents\Visual Studio 2015\Projects\RRFWeb\SrvRRF\obj\Release\SrvRRF.csproj.CoreCompileInputs.cache
+C:\Users\rodolfo.reina.PRODUCCION\Documents\Visual Studio 2015\Projects\RRFWeb\SrvRRF\obj\Release\SrvRRF.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\rodolfo.reina.PRODUCCION\Documents\Visual Studio 2015\Projects\RRFWeb\SrvRRF\bin\Debug\SrvRRF.dll
+C:\Users\rodolfo.reina.PRODUCCION\Documents\Visual Studio 2015\Projects\RRFWeb\SrvRRF\bin\Debug\SrvRRF.pdb
+C:\Users\rodolfo.reina.PRODUCCION\Documents\Visual Studio 2015\Projects\RRFWeb\SrvRRF\obj\Debug\SrvRRF.dll
+C:\Users\rodolfo.reina.PRODUCCION\Documents\Visual Studio 2015\Projects\RRFWeb\SrvRRF\obj\Debug\SrvRRF.pdb
+C:\Users\rodolfo.reina.PRODUCCION\Documents\Visual Studio 2015\Projects\RRFWeb\SrvRRF\obj\Debug\SrvRRF.csproj.CoreCompileInputs.cache
